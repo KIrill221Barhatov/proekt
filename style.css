@@ -34,13 +34,7 @@ header {
     width: 50%;
     font-size: 30px;
 }
-.img {
-background-image: url("1.jpg");
-width: 900px;
-height: 600px;
-background-repeat: no-repeat;
-object-fit: fill;
-}
+
 .img2 {
     justify-content: center;
     display: inline-block;
